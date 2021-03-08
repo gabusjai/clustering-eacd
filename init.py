@@ -2,7 +2,7 @@
 
 repo_name = 'clustering-eacd'
 github_repo = 'gabusjai/%s'%repo_name
-zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
+zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 
 def get_last_modif_date(localdir):
     try:
